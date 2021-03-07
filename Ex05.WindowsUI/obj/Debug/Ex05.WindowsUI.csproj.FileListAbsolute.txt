@@ -1,0 +1,14 @@
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\bin\Debug\Ex05.WindowsUI.exe.config
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\bin\Debug\Ex05.WindowsUI.exe
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\bin\Debug\Ex05.WindowsUI.pdb
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\bin\Debug\Ex05.DamkeLogic.dll
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\bin\Debug\Ex05.DamkeLogic.pdb
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\bin\Debug\Ex05.DamkeLogic.dll.config
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csprojAssemblyReference.cache
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.DamkaBoard.resources
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.GameSettingsWindow.resources
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csproj.GenerateResource.cache
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csproj.CopyComplete
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.exe
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.pdb

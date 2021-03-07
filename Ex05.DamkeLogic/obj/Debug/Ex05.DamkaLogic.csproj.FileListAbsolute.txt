@@ -1,0 +1,7 @@
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.DamkeLogic\bin\Debug\Ex05.DamkeLogic.dll.config
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.DamkeLogic\bin\Debug\Ex05.DamkeLogic.dll
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.DamkeLogic\bin\Debug\Ex05.DamkeLogic.pdb
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.DamkeLogic\obj\Debug\Ex05.DamkaLogic.csprojAssemblyReference.cache
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.DamkeLogic\obj\Debug\Ex05.DamkaLogic.csproj.CoreCompileInputs.cache
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.DamkeLogic\obj\Debug\Ex05.DamkeLogic.dll
+C:\Users\ONE1\Desktop\C20 Ex05 MayOvadia 316252121 MayTzadoky 315530022\Ex05.DamkeLogic\obj\Debug\Ex05.DamkeLogic.pdb
